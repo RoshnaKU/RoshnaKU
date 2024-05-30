@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Roshna
 
-Welcome to my GitHub repository! I'm a seasoned data engineer with over 7 years of professional experience, dedicated to transforming raw data into actionable insights. 
+Welcome to my GitHub repository! I'm a seasoned engineer with over 7 years of professional experience in data field, dedicated to transforming raw data into actionable insights. 
 This space serves as a playground where I explore the exciting world of data engineering and share my journey with fellow enthusiasts.
 
 ## 🔧 Skills & Expertise
